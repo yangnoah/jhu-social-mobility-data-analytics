@@ -1,2 +1,2 @@
-# jhu-social-mobility-data-analytics
+# Is Johns Hopkins Benefiting Society by Removing Legacy Admissions?
 Analysis from Opportunity Insights 
